@@ -8,7 +8,7 @@ title: TransportationCamp NE 2015
 wordpress_id: 1623
 published: true
 ---
-The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015. Doors open and registration begins at 8:30am and the event kicks off at 9:00am. The event will end around 4:00pm.
+<a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 align=right ></a>The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015. Doors open and registration begins at 8:30am and the event kicks off at 9:00am. The event will end around 4:00pm.
 
 Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
@@ -57,8 +57,8 @@ Many thanks to our sponsors:
 
 <img src="sponsor-airsage.jpg" width=160 height=160 > <img src="sponsor-cartodb.png" width=320 height=160 > <img src="sponsor-ecolane.png" width=160 height=160 > <img src="sponsor-neite.png" width=320 height=160 > <img src="sponsor-zipcar.jpg" width=314 height=160 >
 
-Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT,and the Boston Chapter of Young Professionals in Transportation.
+Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
 <img src="organizer-camsys.jpg" width=659 height=160 > <img src="organizer-mit.png" width=309 height=160 > <img src="organizer-MobilityLab.jpg" width=160 height=160 > <img src="organizer-ypt.jpg" width=160 height=160 > 
 
-<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a> <a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 ></a> <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
+<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a>  <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
