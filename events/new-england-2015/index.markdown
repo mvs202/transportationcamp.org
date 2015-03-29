@@ -35,7 +35,7 @@ If you are interested becoming a sponsor of TransportationCamp New England 2015,
 
 ###Schedule and Events
 
-TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
+<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 align=right ></a> TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
 
 > Stata Center, Main Floor<br>
 > 32 Vassar Street<br>
@@ -59,6 +59,4 @@ Many thanks to our sponsors:
 
 Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
-<img src="organizer-camsys.jpg" width=659 height=160 > <img src="organizer-mit.png" width=309 height=160 > <img src="organizer-MobilityLab.jpg" width=160 height=160 > <img src="organizer-ypt.jpg" width=160 height=160 > 
-
-<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a>  
+<img src="organizer-camsys.jpg" width=659 height=160 > <img src="organizer-mit.png" width=309 height=160 > <img src="organizer-MobilityLab.jpg" width=160 height=160 > <img src="organizer-ypt.jpg" width=160 height=160 >
