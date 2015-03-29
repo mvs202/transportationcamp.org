@@ -14,7 +14,7 @@ Following on the success of last year's event, TransportationCamp New England 20
 
 Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
-Some of this year’s session topics will included:
+<a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 align=right ></a>Some of this year’s session topics will included:
 
 * Bike share applications and technology
 * Open source data and standards
@@ -61,4 +61,4 @@ Transportation Camp New England 2015 is organized by Cambridge Systematics, in p
 
 <img src="organizer-camsys.jpg" width=659 height=160 > <img src="organizer-mit.png" width=309 height=160 > <img src="organizer-MobilityLab.jpg" width=160 height=160 > <img src="organizer-ypt.jpg" width=160 height=160 > 
 
-<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a>  <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
+<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a>  
