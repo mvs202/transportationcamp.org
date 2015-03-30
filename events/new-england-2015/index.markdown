@@ -51,4 +51,8 @@ There will be four periods for breakout sessions. The sessions will be proposed 
 
 The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event, at Firebrand Saints: 1 Broadway St, Cambridge, MA 02142.
 
+Many thanks to our sponsors:
+
+<img src="sponsor-airsage.jpg" width=160 height=160 > <img src="sponsor-cartodb.png" width=320 height=160 > <img src="sponsor-ecolane.png" width=160 height=160 > <img src="sponsor-neite.png" width=320 height=160 > <img src="sponsor-zipcar.jpg" width=314 height=160 >
+
 <a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a> <a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 ></a> <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
